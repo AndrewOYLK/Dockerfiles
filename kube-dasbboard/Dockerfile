@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kubernetes-dashboard:v1.17.6
+FROM kubernetesui/dashboard:v2.0.4
