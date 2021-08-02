@@ -1,0 +1,1 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/results/cmd/watcher:v0.2.0@sha256:20f429b003fc8fc32532afef64810f45f81c20e6e86d35a049df481488023a7b
