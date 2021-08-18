@@ -1,0 +1,1 @@
+FROM gcr.io/tekton-nightly/github.com/tektoncd/pipeline/git-init-build-base:latest
